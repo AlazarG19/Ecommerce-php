@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Raleway&family=Rubik&display=swap');
+// import variable scss 
+@import "./include/variables.scss";
+@import "./include/global.scss";
+@import "./include/typography.scss";
+@import "./include/color.scss";
+@import "./include/top-sale.scss";
+@import "./include/special-price.scss";
+*{
+    margin: 0;
+    padding : 0
+}
+a{
+    text-decoration: none;
+}
